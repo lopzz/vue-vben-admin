@@ -43,7 +43,7 @@ export interface DeptListItem {
 }
 
 export interface MenuListItem {
-  id: string;
+  id: number;
   orderNo: string;
   createTime: string;
   status: number;
